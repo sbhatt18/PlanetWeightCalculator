@@ -1,0 +1,2 @@
+# PlanetWeightCalculator
+This program was created during my junior year in HighSchool when I took C++. The goal of this program was to convert the user entered bodyweight and output updated weight with their selected planet. Since the class wasn’t Object Oriented and rather just taught basic programming skill, this program reinforced the concept of ‘switch statements’ taught during the class. PROJECT DATE: DEC 22,  2017
